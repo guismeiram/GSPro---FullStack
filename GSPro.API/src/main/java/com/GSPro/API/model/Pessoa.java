@@ -15,4 +15,6 @@ public class Pessoa {
 	 private String foneFixo;
 	 private String email;
 	 private LocalDate dataNascimento;
+	 
+
 }
